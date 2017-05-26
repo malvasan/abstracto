@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1495818682 source:c:\users\alumno-g\documents\abstracto\main.cpp
+	<iostream>
+	"gerente.h"
+	"Conserje.h"
+
+1495815585 source:c:\users\alumno-g\documents\abstracto\src\persona.cpp
+	"Persona.h"
+
+1495818719 c:\users\alumno-g\documents\abstracto\include\persona.h
+	<iostream>
+	"Birthday.h"
+
+1495818475 source:c:\users\alumno-g\documents\abstracto\src\gerente.cpp
+	"gerente.h"
+
+1495814939 c:\users\alumno-g\documents\abstracto\include\gerente.h
+	"Persona.h"
+
+1495817346 source:c:\users\alumno-g\documents\abstracto\src\conserje.cpp
+	"Conserje.h"
+
+1495815182 c:\users\alumno-g\documents\abstracto\include\conserje.h
+	"Persona.h"
+
+1495817324 c:\users\alumno-g\documents\abstracto\include\birthday.h
+	<iostream>
+
+1495817499 source:c:\users\alumno-g\documents\abstracto\src\birthday.cpp
+	"Birthday.h"
+
